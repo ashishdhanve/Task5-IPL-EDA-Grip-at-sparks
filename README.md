@@ -3,3 +3,5 @@
 ### There are two .csv files give to peform EDA
 - Matches.csv:- Contains TeamWise Data with each match
 - Delivery.csv:- Contains PlayerWise Data with each ball
+
+*if any of the file not opening please relode it 2-3 times
